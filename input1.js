@@ -36,3 +36,11 @@ if (number%6 == 0){
 } else {
     console.log("not divisible by 6");
 }
+//4
+let guess =nter number: "));
+if (guess == 35) {
+ console.log("You won!")
+} else if (guess > 35){
+} else {
+console.log("invalid");
+}
