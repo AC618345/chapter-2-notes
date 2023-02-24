@@ -54,4 +54,7 @@
 // }
 // console.log(product);
 
-//}
+//10
+for (let j = 0; j < 10; j++){
+    console.log('happy holidays');
+}
